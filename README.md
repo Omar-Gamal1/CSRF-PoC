@@ -6,5 +6,5 @@ All you have to do is run the file with python3 then
 follow the examples in code.
 
 Requirements: 
- install termcolor library
-  => pip3 install termcolor 
+ install termcolor library By run:    
+         => pip3 install termcolor 
